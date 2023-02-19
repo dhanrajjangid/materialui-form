@@ -61,7 +61,7 @@ const Form = () => {
               </Grid>
             </Grid>
             <Grid container spacing={2}>
-              <Grid item md={4} sm={12} >
+              <Grid item md={4} sm={12} xs={12}>
                 <TextField
                   item
                   fullWidth
