@@ -1,5 +1,5 @@
 import './App.css';
-import CenteredTabs from './components/VerticalTabs';
+import CenteredTabs from './components/CenteredTabs';
 
 
 function App() {
